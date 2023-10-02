@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/builders/Builder.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/cars/Manual.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/builders/CarBuilder.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/components/Transmission.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/director/Director.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/components/Engine.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/Builder.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/components/TripComputer.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/builders/CarManualBuilder.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/cars/Car.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/cars/CarType.java</file>
+            <file>file:/C:/Users/eduar/OneDrive/Documentos/Java/patronesDeDiseño/builder/src/builder/components/GPSNavigator.java</file>
+        </group>
+    </open-files>
+</project-private>
